@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![alt text](https://github.com/kdwight/kdwight/blob/main/image_2021_07_29T09_15_31_581Z1.png "😴")
-![alt text](https://github.com/kdwight/kdwight/blob/main/image_2021_07_29T09_15_31_581Z.png "😝�")
-
 <!--
 **kdwight/kdwight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
