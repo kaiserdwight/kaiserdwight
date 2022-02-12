@@ -1,19 +1,24 @@
-### Hi there 👋
+## Hi I'm Dwight 👋
 
-<!-- ![alt text](https://github.com/kdwight/kdwight/blob/main/image_2021_07_29T09_15_31_581Z.png) -->
-<!-- ![alt text](https://github.com/kdwight/kdwight/blob/main/image_2021_07_29T09_15_31_581Z1.png) -->
-
-<!--
-**kdwight/kdwight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Web Stack
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://vuejs.org/">
+          <img alt="Vuejs" title="Vuejs" height="16" src="https://cdn.svgporn.com/logos/vue.svg" />
+        </a>
+      </td>
+      <td>
+        <a href="https://laravel.com/">
+          <img alt="Laravel" title="Laravel" height="16" src="https://cdn.svgporn.com/logos/laravel.svg" />
+        </a>
+      </td>
+      <td>
+        <a href="https://tailwindcss.com/">
+          <img alt="Vuejs" title="Vuejs" height="16" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
