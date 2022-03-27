@@ -1,6 +1,7 @@
-## Hi I'm Dwight 👋
+# Hi I'm Dwight 👋
+✉️ dejesuskaiser@gmail.com
 
-### Current Web Stack
+## Current Web Stack
 <table>
   <tbody>
     <tr>
@@ -22,3 +23,26 @@
     </tr>
   </tbody>
 </table>
+
+## Skills
+- Laravel
+- MySQL
+- Vue.js
+- Tailwind CSS
+- SCSS
+- React.js
+- Vanilla JS
+- Shell script
+- Heroku
+- Digital Ocean
+
+## Uses
+- Windows 11
+- Laragon
+- TablePlus 
+- VSCode
+- Hyper Terminal
+- GitKraken
+- Postman
+- Chrome Canary
+- Microsoft PowerToys
