@@ -24,6 +24,8 @@
   </tbody>
 </table>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdwight&layout=compact&bg_color=0,6F4E37,6F4E37&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills
 - Laravel
 - MySQL
