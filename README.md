@@ -26,25 +26,15 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdwight&layout=compact&bg_color=0,6F4E37,6F4E37&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skills
-- Laravel
-- MySQL
-- Vue.js
-- Tailwind CSS
-- SCSS
-- React.js
-- Vanilla JS
-- Shell script
-- Heroku
-- Digital Ocean
-
-## Uses
-- Windows 11
-- Laragon
-- TablePlus 
-- VSCode
-- Hyper Terminal
-- GitKraken
-- Postman
-- Chrome Canary
-- Microsoft PowerToys
+| Skills        | Uses                |
+| ------------- | ------------------- |
+| Laravel       | Windows 11          |
+| MySQL         | Laragon             |
+| Vue.js        | TablePlus           |
+| Tailwind CSS  | VSCode              |
+| SCSS          | Hyper Terminal      |
+| React.js      | GitKraken           |
+| Vanilla JS    | Postman             |
+| Shell script  | Chrome Canary       |
+| Heroku        | Microsoft PowerToys |
+| Digital Ocean | 
