@@ -1,6 +1,5 @@
 # Hi I'm Dwight 👋
-✉️ dejesuskaiser@gmail.com
-🌐 https://kdwight.github.io/
+✉️ dejesuskaiser@gmail.com | 🌐 https://kdwight.github.io/
 
 ## Current Web Stack
 <table>
