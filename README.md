@@ -1,5 +1,5 @@
 # Hi I'm Kaiser 👋
-✉️ dejesuskaiser@gmail.com | 🌐 https://kdwight.github.io/
+✉️ dejesuskaiser@gmail.com | 🌐 https://kaiserdwight.github.io/
 
 ## Current Web Stack
 <table>
